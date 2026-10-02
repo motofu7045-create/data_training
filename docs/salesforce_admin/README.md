@@ -4,6 +4,7 @@ Salesforce 認定 Platform アドミニストレーターの対策ノートを�
 
 | ファイル | 内容 |
 | --- | --- |
+| [notes/](notes/) | **出題範囲（8分野）別の要点まとめ**（公式 Trailmix を読んでまとめたもの） |
 | [comparison.md](comparison.md) | 似た機能の使い分け（比較表） |
 | [diagnostic_2026-10-02.md](diagnostic_2026-10-02.md) | 実力診断（10問）の結果と弱点 |
 
