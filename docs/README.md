@@ -9,6 +9,7 @@
 | [aws_practice/](aws_practice/) | AWSの環境構築練習用 |
 | [learning_plan/](learning_plan/) | 学習方針の整理と進捗 |
 | [salesforce_admin/](salesforce_admin/) | Salesforce アドミン資格の対策 |
+| [dev_basics/](dev_basics/) | 開発の基礎（Linux・Docker・git） |
 
 ## ルール
 - 1つのテーマにつき1ファイルを目安に、Markdown（`.md`）で作成してください。
