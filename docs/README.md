@@ -7,6 +7,7 @@
 | --- | --- |
 | [ml_practice/](ml_practice/) | 機械学習の練習用 |
 | [aws_practice/](aws_practice/) | AWSの環境構築練習用 |
+| [learning_plan/](learning_plan/) | 学習方針の整理と進捗 |
 
 ## ルール
 - 1つのテーマにつき1ファイルを目安に、Markdown（`.md`）で作成してください。
